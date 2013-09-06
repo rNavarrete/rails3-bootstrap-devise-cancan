@@ -1,0 +1,1 @@
+This is a practice rails application in order to learn how to use devise authentication and cancan authorization and twitter bootstrap as front-end ofor it.
